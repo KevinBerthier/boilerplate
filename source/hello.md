@@ -13,4 +13,9 @@ Welcome to GitPress. This is your first post.
 - Getting Started: https://gitpress.io/c/help/welcome
 
 
-puts 2+3
+`puts 2+3`
+# puts 2+4
+
+static int main() {
+  system.out.println("Hello, world!");
+}
